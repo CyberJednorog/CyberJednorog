@@ -48,11 +48,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
+HTML
+CSS
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
@@ -70,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@ycyberJednorog](https://{github.com/cyberJednorog})
+- Website [your-website.com](https://cyberjednorog.netlify.app)
+- GitHub [@cyberJednorog](https://{github.com/cyberJednorog})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
